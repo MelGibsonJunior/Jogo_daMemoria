@@ -1,4 +1,8 @@
-# Jogo da Memoria
+Aula do curso de Javascript 🙃
+Este é o jogo da memória com a temática de Super Mario!
 
-Instruções
-É um jogo simples de cartas, usado para testar a memória dos jogadores.
+Desenvolvidos com:
+HTML básico
+CSS básico
+Javascript básico
+🚀 Let's code! 🚀
