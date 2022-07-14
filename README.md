@@ -1,7 +1,7 @@
-Aula do curso de Javascript 🙃
-Este é o jogo da memória com a temática de Super Mario!
+# Aula do curso de Javascript 🙃
+## Este é o jogo da memória com a temática de Super Mario!
 
-Desenvolvidos com:
+### Desenvolvidos com:
 HTML básico
 CSS básico
 Javascript básico
